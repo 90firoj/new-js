@@ -8,3 +8,11 @@ Reference type or non-primitive :
 const Id=Symbol('123');
 const anotherId=Symbol('123')
 console.log(Id===anotherId);
+
+const sub =["math" , "phy" , "coms"]; //Array
+
+const myObj = {
+    name:"Firoj";
+    age:20;
+}
+}
