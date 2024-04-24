@@ -15,11 +15,19 @@ console.log(valueInNumber);*/
 // "40abc" => NaN (Not a Number)
 //true => 1 ; false => 0
 
-let IsLoggedIn = 1;
+// let IsLoggedIn = 1;
 
-let booleanIsLoggedIn = Boolean(IsLoggedIn)
-console.log(booleanIsLoggedIn);
+// let booleanIsLoggedIn = Boolean(IsLoggedIn)
+// console.log(booleanIsLoggedIn);
 
 //1 =>true ; 0=> false
 //"" =>false
 //"sgfjh" => true
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**3);
+// console.log(2/3);
+// console.log(2%3);
+
