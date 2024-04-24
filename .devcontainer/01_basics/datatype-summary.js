@@ -12,7 +12,7 @@ console.log(Id===anotherId);
 const sub =["math" , "phy" , "coms"]; //Array
 
 const myObj = {
-    name:"Firoj";
-    age:20;
+    name:"Firoj"
+    age:20
 }
 }
